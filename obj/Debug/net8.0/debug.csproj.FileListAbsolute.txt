@@ -1,0 +1,14 @@
+c:\Users\admin\Desktop\Bai tap\debug\bin\Debug\net8.0\debug.exe
+c:\Users\admin\Desktop\Bai tap\debug\bin\Debug\net8.0\debug.deps.json
+c:\Users\admin\Desktop\Bai tap\debug\bin\Debug\net8.0\debug.runtimeconfig.json
+c:\Users\admin\Desktop\Bai tap\debug\bin\Debug\net8.0\debug.dll
+c:\Users\admin\Desktop\Bai tap\debug\bin\Debug\net8.0\debug.pdb
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\debug.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\debug.AssemblyInfoInputs.cache
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\debug.AssemblyInfo.cs
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\debug.csproj.CoreCompileInputs.cache
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\debug.dll
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\refint\debug.dll
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\debug.pdb
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\debug.genruntimeconfig.cache
+c:\Users\admin\Desktop\Bai tap\debug\obj\Debug\net8.0\ref\debug.dll
